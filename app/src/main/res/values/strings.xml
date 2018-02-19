@@ -1,0 +1,17 @@
+<resources>
+    <!--<string name="app_name">movies.iak</string>-->
+    <string name="app_name">The Movie DB</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="favorites">Favorites</string>
+    <string name="now_playing">Now Playing</string>
+
+    <!--PUT YOUR API KEY HERE-->
+    <string name="api_key">8f7e1ef0c68c48deed3e5017fb549e95</string>
+    <string name="base_url">https://api.themoviedb.org/3/movie/</string>
+
+    <!--ITEM-->
+    <string name="text_name" translatable="false">Movie Name</string>
+    <string name="text_overview" translatable="false">Movie Overview</string>
+
+</resources>
